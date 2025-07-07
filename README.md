@@ -1,6 +1,6 @@
 # cst8918-w25-h09
 
-Created an Azure Kubernetes Service (AKS) cluster using terraform.
+Created an Azure Kubernetes Service (AKS) cluster using terraform:
 ![Screenshot 2025-03-09 105536](https://github.com/user-attachments/assets/3023a31c-20fd-4c93-9544-f68e68e5712a)
 ![Screenshot 2025-03-09 105735](https://github.com/user-attachments/assets/1ff190e2-16a4-4c81-bf89-58363cd84d1d)
 
